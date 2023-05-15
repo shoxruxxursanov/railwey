@@ -1,0 +1,31 @@
+.filial-bg{
+  width: 100%;
+  height: 71.5%;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHEzmMkpHwvlniMqIsZO2XS9CAt_KOFMLEace6C2QY3E98oFWUX_BpMDl6_F6Xm5Nhw_k&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.filial-window{
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  opacity: 0.8;
+ 
+}
+.filial-title{
+
+  font-weight: 500;
+}
+.filial-menu{
+  list-style: none;
+  padding: 15px;
+}
+.filial-item{
+  font-size: 18px;
+
+ 
+}
+.filial-item:hover{
+  cursor: pointer;
+  font-weight: 500;
+}

@@ -1,0 +1,75 @@
+.content{
+  width: 100%;
+  height: 100vh;
+  
+  background: #f9f6f6;
+  display: flex;
+  
+}
+.aside{
+  width: 22%;
+  height: 100%;
+  padding: 50px 15px;
+  border-right: 1px solid #000;
+  position: relative;
+
+}
+.menu-link{
+  list-style: none;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  color: #000;
+ 
+}
+.menu-link:hover{
+  color:rgb(97, 97, 210)
+}
+.asosiy{
+  margin-bottom: 40px;
+}
+.home{
+
+  margin-left: 20px;
+}
+
+.menu-logo{
+  position: absolute;
+  left: -39px;
+
+  width: 150px;
+  margin-left: 0;
+}
+.menu-icon{
+  margin-right: 10px;
+}
+.menu-title{
+  font-weight: 300;
+}
+
+
+
+
+.main{
+  width: 78%;
+  height: 100%;
+
+}
+.header{
+  width: 100%;
+  padding-top: 50px ;
+  border-bottom: 1px solid #000;
+  
+}
+.header_title{
+ text-align: center;
+ font-style: italic;
+ font-weight: 900;
+ font-size: 45px;
+ 
+}
+.box{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
